@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=QGIS 2.18
+Comment=QGIS 2.18 LTR in Docker
+Exec=/path_to/qgis_containers/qgis2.18/qgis2
+Icon=/path_to/icons/12.png
+Terminal=true
+Type=Application
